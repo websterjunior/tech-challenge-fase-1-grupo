@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.ipynb_checkpoints
+data/        # datasets não vão pro git (link no README)
+*.h5
+*.pkl
+.claude/settings.local.json
+chest_xray/*
+chest_xray/
