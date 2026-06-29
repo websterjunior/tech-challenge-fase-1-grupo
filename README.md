@@ -1,3 +1,13 @@
+# FACULDADE DE INFORMÁTICA E ADMINISTRAÇÃO PAULISTA - FIAP
+## PÓS TECH - IA PARA DEVS
+
+### GRUPO 42:
+ - Felipe Mendes Garcia
+ - Silmara Alvares Barbosa
+ - Webster Silva Campelo Junior
+ - William Norio Yassuda
+<br />
+
 # Detecção de Pneumonia com Machine Learning
 
 **POSTECH — IA para Devs — Tech Challenge Fase 1 — Desafio B**
